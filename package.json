@@ -14,7 +14,7 @@
     "@sentry/vite-plugin": "^3.2.2",
     "@tailwindcss/postcss": "^4.0.7",
     "@tailwindcss/vite": "^4.0.6",
-    "@tanstack/react-router": "^1.114.17",
+    "@tanstack/react-router": "^1.131.44",
     "@tanstack/react-start": "^1.114.19",
     "@tanstack/react-store": "^0.7.0",
     "@tanstack/router-devtools": "^1.114.21",
